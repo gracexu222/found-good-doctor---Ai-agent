@@ -1,0 +1,288 @@
+[
+  {
+    "doctor_id": "d-001",
+    "full_name": "Wei Chen, MD",
+    "name_variants": [
+      "Wei C.",
+      "陈威"
+    ],
+    "npi": "1234567890",
+    "licenses": [
+      {
+        "state": "CA",
+        "number": "A12345",
+        "status": "active",
+        "last_checked": "2025-09-20"
+      }
+    ],
+    "specialties": [
+      "Cardiology",
+      "Electrophysiology"
+    ],
+    "conditions": [
+      "arrhythmia",
+      "心律失常"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "education": [
+      {
+        "school": "UCSF School of Medicine",
+        "degree": "MD",
+        "year": 2012
+      }
+    ],
+    "experience": [
+      {
+        "org": "UCSF Health",
+        "title": "Attending Cardiologist",
+        "start": "2018-07"
+      }
+    ],
+    "insurances": [
+      {
+        "payer_code": "BCBS",
+        "payer_name": "Blue Cross Blue Shield",
+        "plan": "PPO",
+        "verified_at": "2025-07-10",
+        "source": "UCSF"
+      },
+      {
+        "payer_code": "AETNA",
+        "payer_name": "Aetna",
+        "plan": "HMO",
+        "verified_at": "2025-06-15",
+        "source": "Insurer Directory"
+      }
+    ],
+    "appointment": {
+      "phone": "+1-415-555-0100",
+      "online_portals": [
+        {
+          "type": "hospital",
+          "url": "https://www.ucsfhealth.org/appointments"
+        },
+        {
+          "type": "portal",
+          "url": "https://mychart.ucsf.edu"
+        }
+      ],
+      "walk_in": false
+    },
+    "locations": [
+      {
+        "clinic_name": "UCSF Cardiology",
+        "address": "505 Parnassus Ave",
+        "city": "San Francisco",
+        "state": "CA",
+        "zip": "94143"
+      }
+    ],
+    "ratings": [
+      {
+        "source": "Healthgrades",
+        "rating": 4.6,
+        "count": 38,
+        "url": "https://example.com/hg/wei-chen"
+      }
+    ],
+    "last_updated": "2025-09-24",
+    "sources": [
+      {
+        "source": "NPI",
+        "url": "https://npiregistry.cms.hhs.gov/",
+        "crawled_at": "2025-09-24"
+      }
+    ]
+  },
+  {
+    "doctor_id": "d-002",
+    "full_name": "Emily Park, MD",
+    "name_variants": [
+      "E. Park"
+    ],
+    "npi": "1234567891",
+    "licenses": [
+      {
+        "state": "CA",
+        "number": "A98765",
+        "status": "active",
+        "last_checked": "2025-09-19"
+      }
+    ],
+    "specialties": [
+      "Cardiology",
+      "Interventional Cardiology"
+    ],
+    "conditions": [
+      "cad",
+      "冠心病"
+    ],
+    "languages": [
+      "English",
+      "Korean"
+    ],
+    "education": [
+      {
+        "school": "Stanford University School of Medicine",
+        "degree": "MD",
+        "year": 2011
+      }
+    ],
+    "experience": [
+      {
+        "org": "Stanford Health Care",
+        "title": "Interventional Cardiologist",
+        "start": "2017-09"
+      }
+    ],
+    "insurances": [
+      {
+        "payer_code": "BCBS",
+        "payer_name": "Blue Cross Blue Shield",
+        "plan": "PPO",
+        "verified_at": "2025-08-01",
+        "source": "Hospital"
+      },
+      {
+        "payer_code": "CIGNA",
+        "payer_name": "Cigna",
+        "plan": "EPO",
+        "verified_at": "2025-07-22",
+        "source": "Insurer Directory"
+      }
+    ],
+    "appointment": {
+      "phone": "+1-650-555-0111",
+      "online_portals": [
+        {
+          "type": "hospital",
+          "url": "https://stanfordhealthcare.org/for-patients-visitors/appointment.html"
+        }
+      ],
+      "walk_in": false
+    },
+    "locations": [
+      {
+        "clinic_name": "Stanford Cardiac Catheterization",
+        "address": "300 Pasteur Dr",
+        "city": "Palo Alto",
+        "state": "CA",
+        "zip": "94304"
+      }
+    ],
+    "ratings": [
+      {
+        "source": "Vitals",
+        "rating": 4.4,
+        "count": 22,
+        "url": "https://example.com/vitals/emily-park"
+      }
+    ],
+    "last_updated": "2025-09-24",
+    "sources": [
+      {
+        "source": "NPI",
+        "url": "https://npiregistry.cms.hhs.gov/",
+        "crawled_at": "2025-09-24"
+      }
+    ]
+  },
+  {
+    "doctor_id": "d-003",
+    "full_name": "Liang Zhao, DO",
+    "name_variants": [
+      "Zhao L.",
+      "赵亮"
+    ],
+    "npi": "1234567892",
+    "licenses": [
+      {
+        "state": "CA",
+        "number": "A54321",
+        "status": "active",
+        "last_checked": "2025-09-18"
+      }
+    ],
+    "specialties": [
+      "Primary Care",
+      "Internal Medicine"
+    ],
+    "conditions": [
+      "diabetes",
+      "高血糖",
+      "高血压"
+    ],
+    "languages": [
+      "English",
+      "Chinese"
+    ],
+    "education": [
+      {
+        "school": "UC Davis School of Medicine",
+        "degree": "DO",
+        "year": 2010
+      }
+    ],
+    "experience": [
+      {
+        "org": "Sutter Health",
+        "title": "Primary Care Physician",
+        "start": "2015-02"
+      }
+    ],
+    "insurances": [
+      {
+        "payer_code": "KAISER",
+        "payer_name": "Kaiser Permanente",
+        "plan": "HMO",
+        "verified_at": "2025-07-01",
+        "source": "Insurer Directory"
+      },
+      {
+        "payer_code": "AETNA",
+        "payer_name": "Aetna",
+        "plan": "PPO",
+        "verified_at": "2025-06-20",
+        "source": "Hospital"
+      }
+    ],
+    "appointment": {
+      "phone": "+1-925-555-0123",
+      "online_portals": [
+        {
+          "type": "hospital",
+          "url": "https://www.sutterhealth.org/for-patients/appointments"
+        }
+      ],
+      "walk_in": true
+    },
+    "locations": [
+      {
+        "clinic_name": "Sutter Primary Care",
+        "address": "6001 Norris Canyon Rd",
+        "city": "San Ramon",
+        "state": "CA",
+        "zip": "94583"
+      }
+    ],
+    "ratings": [
+      {
+        "source": "Google",
+        "rating": 4.7,
+        "count": 120,
+        "url": "https://maps.google.com/?q=sutter+primary+care"
+      }
+    ],
+    "last_updated": "2025-09-24",
+    "sources": [
+      {
+        "source": "NPI",
+        "url": "https://npiregistry.cms.hhs.gov/",
+        "crawled_at": "2025-09-24"
+      }
+    ]
+  }
+]

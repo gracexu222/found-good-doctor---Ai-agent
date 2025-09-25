@@ -1,0 +1,46 @@
+[
+  {
+    "condition": [
+      "heart attack",
+      "myocardial infarction",
+      "coronary artery disease",
+      "冠心病",
+      "心梗"
+    ],
+    "specialties": [
+      "Cardiology",
+      "Interventional Cardiology"
+    ]
+  },
+  {
+    "condition": [
+      "arrhythmia",
+      "atrial fibrillation",
+      "心律失常"
+    ],
+    "specialties": [
+      "Cardiology",
+      "Electrophysiology"
+    ]
+  },
+  {
+    "condition": [
+      "diabetes",
+      "糖尿病"
+    ],
+    "specialties": [
+      "Endocrinology",
+      "Primary Care"
+    ]
+  },
+  {
+    "condition": [
+      "asthma",
+      "哮喘"
+    ],
+    "specialties": [
+      "Pulmonology",
+      "Allergy & Immunology"
+    ]
+  }
+]
